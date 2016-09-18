@@ -1,2 +1,2 @@
 # ip-finder
-Simple code that will help you find your IP 
+Code for a simple website that will help you find your IP. 
